@@ -44,7 +44,3 @@ The frontend dev server proxies API calls to the backend.
 - Send RFP to selected vendors (via email)
 - Receive vendor responses via IMAP pull endpoint, AI-parsed into proposals
 - Compare proposals and see AI recommendation
-
-## Notes
-- This is a single-user demo app (no auth).
-- For IMAP pulling, use the "Fetch Vendor Emails" button on the RFP detail page after vendors reply.
